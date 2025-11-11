@@ -4,7 +4,7 @@ Welcome to the GitHub repository for CEE 244: Programming for Engineers, a cours
 
 If you are an instructor, please reach out to me and I can also share lab/homework assignments.
 
-Initially created for Fall 2024 Semester. 
+Initial creation: Fall 2024
 
 ## Table of Contents
 
@@ -200,4 +200,4 @@ Contributions to enhance the materials or suggest improvements are welcome! Plea
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
-This resource was created for Fall 2024 semester. Large language models were used to help with the creation of this readme file.
+This resource was created initially for Fall 2024 semester with periodc updates. Large language models were used to help with the creation of this readme file.
