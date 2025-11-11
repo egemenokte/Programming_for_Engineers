@@ -22,8 +22,9 @@ Initially created for Fall 2024 Semester.
 - [Applications](#applications)
   - [Double Pendulum Animation in Python](#1-double-pendulum-animation-in-python)
   - [Eight Queens Puzzle Solver](#2-eight-queens-puzzle-solver)
-  - [Large Language Models Demo](#3-large-language-models-demo)
-  - [Truss Analysis](#4-truss-analysis)
+  - [Sudoku Solver](#3-sudoku-solver)
+  - [Large Language Models Demo](#4-large-language-models-demo)
+  - [Truss Analysis](#5-truss-analysis)
 - [How to Use](#how-to-use)
   - [Method 1: Clone](#method-1-clone)
   - [Method 2: Open Directly in Google Colab](#method-2-open-directly-in-google-colab)
@@ -135,7 +136,15 @@ Solves the classic Eight Queens problem using a recursive backtracking algorithm
 
 ---
 
-### 3. Large Language Models Demo
+### 3. Sudoku Solver
+Solves Sudoku puzzles again using a recursive algorithm. It can solve any Sudoku puzzle as long as there is a valid solution.  
+**Key Features**:
+- Starts by checking if placement of a given number is valid for a cell.
+- Iteratively calls itself to solve a smaller version of the problem.  
+
+---
+
+### 4. Large Language Models Demo
 Interacts with an open-source language model (Llama 3.1) via a user-friendly interface. Experiment with the system and user prompts to observe changes in responses.  
 **Key Features**:
 - Configure system behavior with custom prompts.
@@ -144,7 +153,7 @@ Interacts with an open-source language model (Llama 3.1) via a user-friendly int
 
 ---
 
-### 4. Truss Analysis 
+### 5. Truss Analysis 
 Analyzes internal forces in truss structures using principles of statics. This application calculates member forces, reactions at supports, and visualizes the results.  
 **Key Features**:
 - Defines nodes, edges, supports, and loads for a truss.
