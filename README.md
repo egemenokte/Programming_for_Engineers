@@ -2,7 +2,9 @@
 
 Welcome to the GitHub repository for CEE 244: Programming for Engineers, a course offered by the Department of Civil and Environmental Engineering at UMass Amherst. This course introduces essential programming concepts and practical applications for engineers, using Python as the primary language. The course uses Google Colab as an accessible, cloud-based programming interface. While the examples and exercises are occasionally tailored to Civil Engineering contexts, the foundational programming concepts covered are broadly applicable and beneficial for all engineers.
 
-Created for Fall 2024 Semester. 
+If you are an instructor, please reach out to me and I can also share lab/homework assignments.
+
+Initially created for Fall 2024 Semester. 
 
 ## Table of Contents
 
