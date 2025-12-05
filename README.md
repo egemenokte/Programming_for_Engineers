@@ -200,4 +200,4 @@ Contributions to enhance the materials or suggest improvements are welcome! Plea
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
-This resource was created initially for Fall 2024 semester with periodc updates. Large language models were used to help with the creation of this readme file.
+This resource was created initially for Fall 2024 semester with periodic updates. Large language models were used to help with the creation of this readme file.
